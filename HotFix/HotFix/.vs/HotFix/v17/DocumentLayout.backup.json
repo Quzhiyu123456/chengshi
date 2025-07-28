@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\ui\\selectplayerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\selectplayerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\ui\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\unityproject\\\u6E14\u5149\u4E4B\u57CE\\hotfix\\hotfix\\ui\\praywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\praywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\unityproject\\\u6E14\u5149\u4E4B\u57CE\\hotfix\\hotfix\\ui\\praytipswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\praytipswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\unityproject\\\u6E14\u5149\u4E4B\u57CE\\hotfix\\hotfix\\ui\\marketfishwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\marketfishwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\network\\webrequestfuncitons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:network\\webrequestfuncitons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\unityproject\\\u6E14\u5149\u4E4B\u57CE\\hotfix\\hotfix\\ui\\joystickwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\joystickwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\unityproject\\\u6E14\u5149\u4E4B\u57CE\\hotfix\\hotfix\\ui\\itemscripts\\prayitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\itemscripts\\prayitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\unityproject\\\u6E14\u5149\u4E4B\u57CE\\hotfix\\hotfix\\ui\\itemscripts\\goodsselectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\itemscripts\\goodsselectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\unityproject\\\u6E14\u5149\u4E4B\u57CE\\hotfix\\hotfix\\ui\\itemscripts\\goodsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\itemscripts\\goodsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\unityproject\\\u6E14\u5149\u4E4B\u57CE\\hotfix\\hotfix\\ui\\itemscripts\\fishitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\itemscripts\\fishitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\unityproject\\\u6E14\u5149\u4E4B\u57CE\\hotfix\\hotfix\\ui\\itemscripts\\bagitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\itemscripts\\bagitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|d:\\unityproject\\\u6E14\u5149\u4E4B\u57CE\\hotfix\\hotfix\\common\\utils\\webrequestutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:common\\utils\\webrequestutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\ui\\increasewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\increasewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\ui\\fishingoverwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\fishingoverwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\ui\\detailwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\detailwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\ui\\billwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\billwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\ui\\bagwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\bagwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\ui\\addfishmoneywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\addfishmoneywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\manager\\toolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:manager\\toolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\ui\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888A9D5B-5858-49CF-A47B-085E7DD3EE98}|HotFix.csproj|solutionrelative:ui\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrayWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\PrayWindow.cs",
+              "RelativeDocumentMoniker": "UI\\PrayWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\PrayWindow.cs",
+              "RelativeToolTip": "UI\\PrayWindow.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAhwGcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:30:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrayTipsWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\PrayTipsWindow.cs",
+              "RelativeDocumentMoniker": "UI\\PrayTipsWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\PrayTipsWindow.cs",
+              "RelativeToolTip": "UI\\PrayTipsWindow.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAhwFYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:30:21.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MarketFishWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\MarketFishWindow.cs",
+              "RelativeDocumentMoniker": "UI\\MarketFishWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\MarketFishWindow.cs",
+              "RelativeToolTip": "UI\\MarketFishWindow.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAhwH4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:27:09.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JoyStickWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\JoyStickWindow.cs",
+              "RelativeDocumentMoniker": "UI\\JoyStickWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\JoyStickWindow.cs",
+              "RelativeToolTip": "UI\\JoyStickWindow.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAD4v2UBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:21:12.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrayItem.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\ItemScripts\\PrayItem.cs",
+              "RelativeDocumentMoniker": "UI\\ItemScripts\\PrayItem.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\ItemScripts\\PrayItem.cs",
+              "RelativeToolTip": "UI\\ItemScripts\\PrayItem.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADgvyQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:21:02.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoodsSelectItem.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\ItemScripts\\GoodsSelectItem.cs",
+              "RelativeDocumentMoniker": "UI\\ItemScripts\\GoodsSelectItem.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\ItemScripts\\GoodsSelectItem.cs",
+              "RelativeToolTip": "UI\\ItemScripts\\GoodsSelectItem.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADgv1EAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:20:35.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GoodsItem.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\ItemScripts\\GoodsItem.cs",
+              "RelativeDocumentMoniker": "UI\\ItemScripts\\GoodsItem.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\ItemScripts\\GoodsItem.cs",
+              "RelativeToolTip": "UI\\ItemScripts\\GoodsItem.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAIAwwE8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:20:17.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FishItem.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\ItemScripts\\FishItem.cs",
+              "RelativeDocumentMoniker": "UI\\ItemScripts\\FishItem.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\ItemScripts\\FishItem.cs",
+              "RelativeToolTip": "UI\\ItemScripts\\FishItem.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAvwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:20:03.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebRequestUtils.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\Common\\Utils\\WebRequestUtils.cs",
+              "RelativeDocumentMoniker": "Common\\Utils\\WebRequestUtils.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\Common\\Utils\\WebRequestUtils.cs",
+              "RelativeToolTip": "Common\\Utils\\WebRequestUtils.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA3wBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:19:02.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BagItem.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\ItemScripts\\BagItem.cs",
+              "RelativeDocumentMoniker": "UI\\ItemScripts\\BagItem.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\ItemScripts\\BagItem.cs",
+              "RelativeToolTip": "UI\\ItemScripts\\BagItem.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADgv1kAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:44:12.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FishingOverWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\FishingOverWindow.cs",
+              "RelativeDocumentMoniker": "UI\\FishingOverWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\FishingOverWindow.cs",
+              "RelativeToolTip": "UI\\FishingOverWindow.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAhwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:39:52.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetailWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\DetailWindow.cs",
+              "RelativeDocumentMoniker": "UI\\DetailWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\DetailWindow.cs",
+              "RelativeToolTip": "UI\\DetailWindow.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAcwAUBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:38:09.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BillWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\BillWindow.cs",
+              "RelativeDocumentMoniker": "UI\\BillWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\BillWindow.cs",
+              "RelativeToolTip": "UI\\BillWindow.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAcwGoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:36:28.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebRequestFuncitons.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\NetWork\\WebRequestFuncitons.cs",
+              "RelativeDocumentMoniker": "NetWork\\WebRequestFuncitons.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\NetWork\\WebRequestFuncitons.cs",
+              "RelativeToolTip": "NetWork\\WebRequestFuncitons.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAIsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:32:40.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BagWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\BagWindow.cs",
+              "RelativeDocumentMoniker": "UI\\BagWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\BagWindow.cs",
+              "RelativeToolTip": "UI\\BagWindow.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:32:22.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IncreaseWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\IncreaseWindow.cs",
+              "RelativeDocumentMoniker": "UI\\IncreaseWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\IncreaseWindow.cs",
+              "RelativeToolTip": "UI\\IncreaseWindow.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAhwFEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:31:57.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\MainWindow.cs",
+              "RelativeDocumentMoniker": "UI\\MainWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\MainWindow.cs",
+              "RelativeToolTip": "UI\\MainWindow.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAvwM4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:30:44.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddFishMoneyWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\AddFishMoneyWindow.cs",
+              "RelativeDocumentMoniker": "UI\\AddFishMoneyWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\AddFishMoneyWindow.cs",
+              "RelativeToolTip": "UI\\AddFishMoneyWindow.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAswGkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:29:17.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectPlayerWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\SelectPlayerWindow.cs",
+              "RelativeDocumentMoniker": "UI\\SelectPlayerWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\SelectPlayerWindow.cs",
+              "RelativeToolTip": "UI\\SelectPlayerWindow.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAADgvwcBAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:17:24.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ToolManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\Manager\\ToolManager.cs",
+              "RelativeDocumentMoniker": "Manager\\ToolManager.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\Manager\\ToolManager.cs",
+              "RelativeToolTip": "Manager\\ToolManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswB0AAABCAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:13:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StartWindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\StartWindow.cs",
+              "RelativeDocumentMoniker": "UI\\StartWindow.cs",
+              "ToolTip": "D:\\UnityProject\\\u6E14\u5149\u4E4B\u57CE\\HotFix\\HotFix\\UI\\StartWindow.cs",
+              "RelativeToolTip": "UI\\StartWindow.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:13:15.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

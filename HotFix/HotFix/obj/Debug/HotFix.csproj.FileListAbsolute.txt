@@ -1,0 +1,10 @@
+E:\CompanyProject\hotfix_project\HotFix\HotFix\obj\Debug\HotFix.csproj.AssemblyReference.cache
+E:\CompanyProject\hotfix_project\HotFix\HotFix\obj\Debug\HotFix.csproj.CoreCompileInputs.cache
+D:\UnityProject\渔光之城\HotFix\HotFix\obj\Debug\HotFix.csproj.AssemblyReference.cache
+D:\UnityProject\渔光之城\HotFix\HotFix\obj\Debug\HotFix.csproj.CoreCompileInputs.cache
+D:\UnityProject\渔光之城\HotFix\HotFix\bin\Debug\HotFix.dll
+D:\UnityProject\渔光之城\HotFix\HotFix\bin\Debug\HotFix.pdb
+D:\UnityProject\渔光之城\HotFix\HotFix\bin\Debug\System.dll
+D:\UnityProject\渔光之城\HotFix\HotFix\obj\Debug\HotFix.csproj.Up2Date
+D:\UnityProject\渔光之城\HotFix\HotFix\obj\Debug\HotFix.dll
+D:\UnityProject\渔光之城\HotFix\HotFix\obj\Debug\HotFix.pdb
